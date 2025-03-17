@@ -1,7 +1,7 @@
-# 🚀 Databricks Self-Training Journey
+# 🚀 Databricks Self-Training Journey (InfoObjects)
 
 ## 📌 Introduction
-Welcome to my self-training journey on Databricks! This document serves as a guide and log for my learning process, key topics covered, resources used, and progress tracking.
+Welcome to my self-training journey on Databricks at InfoObjects! This document serves as a guide and log for my learning process, key topics covered, resources used, and progress tracking.
 
 
 ## 🎯 Goals
@@ -44,7 +44,6 @@ Welcome to my self-training journey on Databricks! This document serves as a gui
 - [ ] 🎯 Final assessment and review
 
 ## 🎉 Conclusion
-This README will be updated as I progress in my training. My goal is to develop a deep understanding of Databricks and leverage it effectively in real-world scenarios.
+This README will be updated as I progress in my training. My goal is to develop a deep understanding of Databricks and leverage it effectively in real-world scenarios while working at InfoObjects.
 
 🔥 Let's get started on this exciting journey! 🚀
-
